@@ -1,4 +1,4 @@
-# Wireless Networks and Security
+# Wireless Networks and Security (Hayeon Yu and Alison Savary)
 
 ## WPA Security
 
